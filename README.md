@@ -1,1 +1,1 @@
-# Duke_STA603_Bayesian
+# STA 360 / STA 601 Bayesian Methods and Modern Statistics
